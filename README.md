@@ -26,7 +26,7 @@ During the investigation, five suspicious users were identified, including multi
 - **Tools:** Splunk 
 
 
-## Methodology:
+- **Methodology:**
 - Correlation and filtering: Applied different SPL queries  
 - Classification: Incident ranked as High, Medium, or Low based on the impact.  
 - Timeline Construction: Events mapped chronologically to understand the attack flow.  
