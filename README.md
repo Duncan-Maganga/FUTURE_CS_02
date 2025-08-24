@@ -34,4 +34,7 @@ During the investigation, five suspicious users were identified, including multi
 
 ## Findings
 Five users were flagged with the detection of malware 
+
+![ZAP Scan Result](intro.png)
+
        
