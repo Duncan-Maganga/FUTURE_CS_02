@@ -32,4 +32,6 @@ During the investigation, five suspicious users were identified, including multi
 - Timeline Construction: Events mapped chronologically to understand the attack flow.  
 - Mitigations: Drafted recommended containment and remediation actions.  
 
-
+## Findings
+Five users were flagged with the detection of malware 
+       
