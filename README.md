@@ -21,16 +21,15 @@ During the investigation, five suspicious users were identified, including multi
 - Malware detection alerts   
 
 
-Tools and Methodology
+## Tools and Methodology
 
-•	Tools: Splunk 
-
-
-•	Methodology:
-1.	Correlation and filtering: Applied different SPL queries
-2.	Classification: Incident ranked as High, Medium, or Low based on the impact.
-3.	Timeline Construction: Events mapped chronologically to understand the attack flow.
-4.	Mitigations: Drafted recommended containment and remediation actions.
+- **Tools:** Splunk 
 
 
-<img width="468" height="470" alt="image" src="https://github.com/user-attachments/assets/91a90a6d-e40c-4877-a153-933e41c78549" />
+## Methodology:
+- Correlation and filtering: Applied different SPL queries  
+- Classification: Incident ranked as High, Medium, or Low based on the impact.  
+- Timeline Construction: Events mapped chronologically to understand the attack flow.  
+- Mitigations: Drafted recommended containment and remediation actions.  
+
+
