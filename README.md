@@ -23,10 +23,10 @@ During the investigation, five suspicious users were identified, including multi
 
 ## Tools and Methodology
 
-1 **Tools:** Splunk 
+1. **Tools:** Splunk 
 
 
-2 **Methodology:**
+2. **Methodology:**
 - Correlation and filtering: Applied different SPL queries  
 - Classification: Incident ranked as High, Medium, or Low based on the impact.  
 - Timeline Construction: Events mapped chronologically to understand the attack flow.  
@@ -49,9 +49,9 @@ Five users were flagged with the detection of malware
 
 ## Event id 002 – User id  Bob
 
-**Description:**  Compromised the system with ransomware and started accessing files.   
+**Description:**  Compromised the system with ransomware and files were accessed.   
 **Severity:** High  
-**Impact:** File Encryption and ransomware   
+**Impact:** File Encryption and ransomware detected.   
 **IP Address:** 172.16.0.3  
 **Time:** 9:10:14 AM
 
@@ -61,7 +61,7 @@ Five users were flagged with the detection of malware
 
 **Description:** Trojan was detected and blocked   
 **Severity:** Low  
-**Impact:** This did not hit the system.  
+**Impact:** The system was not hit.  
 **IP Address:** 172.16.0.3  
 **Time:** 5:45:14 AM  
 
