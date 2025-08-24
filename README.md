@@ -15,10 +15,10 @@ During the investigation, five suspicious users were identified, including multi
 
 **Purpose:** To simulate real-world incident detection and response using sample SIEM logs  
 **Scope:** Analysis covered:  
--System logs with timestamps  
--Network connection logs with source and destination IPs  
--Authentication logs with successful and failed logging attempts  
--Malware detection alerts   
+- System logs with timestamps  
+- Network connection logs with source and destination IPs  
+- Authentication logs with successful and failed logging attempts  
+- Malware detection alerts   
 
 
 Tools and Methodology
