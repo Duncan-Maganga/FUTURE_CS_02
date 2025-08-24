@@ -9,7 +9,7 @@
 ## Executive Summary
 
 This report documents the analysis of simulated system, network, and authentication logs collected from the organization’s SIEM platform. The objective was to detect suspicious activity, classify incidents by severity, and provide guidance on remediation.
-During the investigation, five suspicious users were identified, including multiple log-in attempts and several malware signatures. Based on the impact, all the incidents were classified as high priority.	
+During the investigation, five suspicious users were identified, including multiple log-in attempts and several malware signatures. Based on the impact, three incidents were classified as high-priority and two were classified as low-priority.	
 
 ## Purpose and Scope
 
